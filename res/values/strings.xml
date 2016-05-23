@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLiteDome</string>
+    <string name="btn_add">添加</string>
+    <string name="btn_update">修改</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_query">查询</string>
+    <string name="btn_all">ALL</string>
+    <string name="btn_sql_delete">DEL-SQL</string>
+    <string name="hint_id">id</string>
+    <string name="hint_name">name</string>
+    <string name="hint_description">please input description</string>
+    <string name="action_settings">settings</string>
+    
+
+</resources>
